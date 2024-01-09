@@ -15,7 +15,6 @@ This is a simple stopwatch application implemented in Python using the Tkinter l
 - Python 3.x
 - Tkinter library
 
-- 
 ## Note
 
 - The stopwatch time is displayed in the format HH:MM:SS.
